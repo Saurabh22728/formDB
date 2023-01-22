@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Merriweather:wght@700&family=Ubuntu:wght@300&display=swap');
+/* 
+font-family: 'Comfortaa', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Ubuntu', sans-serif;
+ */
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.info {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.data {
+    padding: 2%;
+    border: 2px solid black;
+    background-image: url("./pics/back.webp");
+}
+
+.in {
+    display: flex;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.inText {
+    flex: 1;
+    margin: 1rem;
+    font-size: 1.8rem;
+}
+
+.field {
+
+    padding: 0.5rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+
+}
